@@ -18,4 +18,5 @@
   <build>
     <finalName>everismpconsola</finalName>
   </build>
+<!-- this is a comment -->
 </project>
